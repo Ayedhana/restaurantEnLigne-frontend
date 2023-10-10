@@ -1,0 +1,58 @@
+[
+  {
+    "CategoryName": "Biryani/Rice",
+    "name": "Chili de boeuf",
+    "img": "https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_488,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/138768/chiliconcarne.JPG",
+    "option": [{ "Half": "130", "Full": "220" }],
+    "descption": "Un savoureux plat complet composé de boeuf, d'oignons, poivrons rouges et épices. "
+  },
+  {
+    "CategoryName": "Biryani/Rice",
+    "name": "canard sauce crevette riz frit",
+    "img": "https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_488,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/98341/canard-sauce-crevette-5.jpg",
+    "option": [{ "Half": "160", "Full": "300" }],
+    "descption": " L’association canard crevette est aussi étonnante qu'elle est réussie. "
+  },
+  {
+    "CategoryName": "Biryani/Rice",
+    "name": "Nouilles chinoises aux légumes",
+    "img": "https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_488,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/88070/98402106.jpg",
+    "option": [{ "Half": "80", "Full": "170" }],
+    "descption": " a croyance populaire veut que plus les nouilles sont longues, plus les convives vivront longtemps. "
+  },
+  {
+    "CategoryName": "Starter",
+    "name": "Rainbowl à la spiruline",
+    "img": "https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_488,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/185820/recette_bowl_spiruline.jpg",
+    "option": [{ "Half": "40", "Full": "100" }],
+    "descption": " Très riche en fer et en protéines, la spiruline constitue la base idéale pour des recettes saines. "
+  },
+  {
+    "CategoryName": "Starter",
+    "name": "Salade de chou fleur vert",
+    "img": "https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_488,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/158989/20171119Cuisine_mart321.jpg",
+    "option": [{ "Half": "40", "Full": "100" }],
+    "descption": " Cette année, je trouve des choux fleurs blancs, violets et verts. J'aime bien, ça amène du soleil dans les assiettes ! "
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Pizza calzone",
+    "img": "https://img-3.journaldesfemmes.fr/pYib6nnhP7gFFAHm1-UA_3_aowo=/750x500/smart/b5d54fbf99dc4388b30556918e0c3e44/recipe-jdf/1001048.jpg",
+    "option": [{ "regular": "80", "medium": "270","large":"350" }],
+    "descption": " C'est ultra simple et vraiment très bon. Je dois dire que je raffole des calzones maison. "
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Pizza blanche au saumon fumé et à la cancoillotte",
+    "img": "https://img-3.journaldesfemmes.fr/1DjZhVK9zUlIa-zhCjoiauOtkXI=/750x500/smart/2c69c8b43b5c4578ac784180f4c493cc/recipe-jdf/10046154.jpg",
+    "option": [{ "regular": "80", "medium": "270", "large": "350" }],
+    "descption": " Aujourd'hui je vous propose une pizza blanche. "
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Pizza 4 fromages : la meilleure recette",
+    "img": "https://img-3.journaldesfemmes.fr/OkZJdKfVTtQ6hHYuLfLqhMwOOsU=/750x500/smart/fb9eb9bdd77e4fa88e100e5e526938df/recipe-jdf/353747.jpg",
+    "option": [{ "regular": "80", "medium": "270", "large": "350" }],
+    "descption": " Découvrez la recette de Pizza quatre fromages, avec une bonne pâte croustillante et des fromages coulants. "
+  }
+]
